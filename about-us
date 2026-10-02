@@ -4,7 +4,9 @@
   <title>About Us</title>
 </head>
 <body>
+  <section>
   <h1>Brooke German</h1>
     <p>My name is Brooke. I am a senior majoring in Information Science. A few things I am interested in are crocheting, quilting, and hiking. I am most involved with crocheting as I have started my own small business with it and have been a vendor at craft fairs for the past three years. My favorite tech thing would be my apple watch as I find it very helpful for tracking sleep patterns and knowing when I get notifications to determine if they are important enough for me to check my phone or not.</p>
+  </section>
 </body>
 </html>
