@@ -1,1 +1,9 @@
-
+body: {
+  font-family: Arial, sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px
+  line-height: 1.6; 
+}
