@@ -6,4 +6,21 @@ body {
     margin: 0 auto;
     padding: 40px;
     line-height: 1.6;
+    text-align: center;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+section {
+    width: 30%;
+    padding: 20px;
+    border: 2px solid black;
+}
+.image-box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    margin: 20px auto;
 }
