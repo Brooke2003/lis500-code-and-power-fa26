@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     color: #283848;
     background-color: #c5d2df;
     max-width: 1000px;
@@ -9,21 +9,20 @@ body {
     text-align: center;
 }
 h1 {
-    font-family: Futura, "Century Gothic", "Trebuchet MS", sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
     color: #244b70;
-    font-size: 44px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin: 40px 0 30px;
+    font-size: 34px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
 }
 h2 {
-    font-family: Futura, "Century Gothic", "Trebuchet MS", sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
     color: #315d82;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 500;
 }
 h3 {
-    font-family: Futura, "Century Gothic", "Trebuchet MS", sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
     color: #3f6685;
     font-weight: 500;
 }
