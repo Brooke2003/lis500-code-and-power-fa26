@@ -1,12 +1,27 @@
 body {
     font-family: Arial, sans-serif;
-    color: #333333;
-    background-color: #dbe5ee;
+    color: #283848;
+    background-color: #c5d2df;
     max-width: 1000px;
     margin: 0 auto;
     padding: 40px;
     line-height: 1.6;
     text-align: center;
+}
+h1 {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    color: #244b70;
+    font-size: 34px;
+    letter-spacing: 2px;
+}
+h2 {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    color: #315d82;
+    font-size: 24px;
+}
+h3 {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    color: #3f6685;
 }
 .cards {
     display: flex;
@@ -16,13 +31,15 @@ body {
 section {
     width: 30%;
     padding: 20px;
-    border: 2px solid black;
+    border: 2px solid #536b7d;
+    background-color: #d9e3eb;
 }
 .image-box {
     width: 150px;
     height: 150px;
-    border: 2px solid black;
+    border: 2px solid #536b7d;
     margin: 20px auto;
+    background-color: #b6c7d6;
 }
 .image-box img {
     width: 100%;
@@ -30,15 +47,16 @@ section {
     object-fit: cover;
 }
 nav {
-    background-color: #a7cff2;
-    padding: 20px;
+    background-color: #52799b;
+    padding: 15px;
     text-align: center;
+    border: 2px solid #405d73;
 }
 nav a {
-    color: white;
+    color: #e8f0f5;
     margin: 15px;
     font-weight: bold;
 }
 nav a:hover {
-    color: black;
+    color: #b8d2e5;
 }
