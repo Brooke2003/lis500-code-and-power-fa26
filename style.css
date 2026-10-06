@@ -9,19 +9,23 @@ body {
     text-align: center;
 }
 h1 {
-    font-family: "Trebuchet MS", Arial, sans-serif;
+    font-family: Futura, "Century Gothic", "Trebuchet MS", sans-serif;
     color: #244b70;
-    font-size: 34px;
-    letter-spacing: 2px;
+    font-size: 44px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 40px 0 30px;
 }
 h2 {
-    font-family: "Trebuchet MS", Arial, sans-serif;
+    font-family: Futura, "Century Gothic", "Trebuchet MS", sans-serif;
     color: #315d82;
-    font-size: 24px;
+    font-size: 28px;
+    font-weight: 500;
 }
 h3 {
-    font-family: "Trebuchet MS", Arial, sans-serif;
+    font-family: Futura, "Century Gothic", "Trebuchet MS", sans-serif;
     color: #3f6685;
+    font-weight: 500;
 }
 nav {
     background-color: #52799b;
