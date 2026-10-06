@@ -127,3 +127,6 @@ section {
 .buttons a:hover {
     background-color: #405d73;
 }
+.resource {
+    text-align: left;
+}
