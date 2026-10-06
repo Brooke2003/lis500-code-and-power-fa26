@@ -130,3 +130,6 @@ section {
 .resource {
     text-align: left;
 }
+.resource h1 {
+    text-align: center;
+}
